@@ -5,6 +5,11 @@ This project takes the classic **Caesar Cipher decoding technique** and runs it 
 
 ---
 
+# Contract Address
+
+- Contract address: `0xD8735BBCA6Ba176525CB5AcfFbA4Ac5E730720fF`
+- https://coston2-explorer.flare.network/address/0xD8735BBCA6Ba176525CB5AcfFbA4Ac5E730720fF
+
 ## 📌 Project Description
 
 This project allows users to decode Caesar-cipher encoded text using a deployed smart contract on the blockchain.  
